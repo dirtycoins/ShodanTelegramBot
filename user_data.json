@@ -1,0 +1,518 @@
+{
+    "5152478119": {
+        "name": "N3k0Ch$n",
+        "created": "2024-08-17T19:40:29.845168",
+        "usage_count": 115,
+        "search_history": [
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T19:40:45.420157"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T19:41:58.484494"
+            },
+            {
+                "query": "vuln:CVE-2024-27316",
+                "timestamp": "2024-08-17T19:42:24.733342"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T19:56:56.526777"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T19:57:20.834788"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T20:00:49.568803"
+            },
+            {
+                "query": "hostname:\"*.fpt.edu.vn\"",
+                "timestamp": "2024-08-17T20:01:03.159034"
+            },
+            {
+                "query": "org:\"FPT Telecom\"",
+                "timestamp": "2024-08-17T20:04:20.809272"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T20:05:49.124273"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T20:05:59.093562"
+            },
+            {
+                "query": "hostname:\"*.fpt.edu.vn\" AND port:80",
+                "timestamp": "2024-08-17T20:09:18.910438"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn AND port:80",
+                "timestamp": "2024-08-17T20:09:34.221485"
+            },
+            {
+                "query": "hostname:fpt.edu.vn and port",
+                "timestamp": "2024-08-17T20:10:48.535573"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" port:443",
+                "timestamp": "2024-08-17T20:11:01.277256"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"SQL syntax error\"",
+                "timestamp": "2024-08-17T20:11:52.082209"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"alert(\"",
+                "timestamp": "2024-08-17T20:12:00.295950"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"admin login\"",
+                "timestamp": "2024-08-17T20:12:13.258321"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"Index of /\"",
+                "timestamp": "2024-08-17T20:12:21.291370"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" port:21",
+                "timestamp": "2024-08-17T20:12:30.947474"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"X-Content-Type-Options: nosniff\"",
+                "timestamp": "2024-08-17T20:12:42.219202"
+            },
+            {
+                "query": "hostname:\".edu.vn\" product:\"Apache\" country:VN",
+                "timestamp": "2024-08-17T20:13:59.204050"
+            },
+            {
+                "query": "hostname:\".edu.vn\" product:\"Apache\" country:VN \"SQL syntax error\"",
+                "timestamp": "2024-08-17T20:14:54.230610"
+            },
+            {
+                "query": "hostname:\".com\" product:\"Apache\"  \"SQL syntax error\"",
+                "timestamp": "2024-08-17T20:15:30.855283"
+            },
+            {
+                "query": "\"SQL syntax error\"",
+                "timestamp": "2024-08-17T20:15:49.219462"
+            },
+            {
+                "query": "SQL syntax error",
+                "timestamp": "2024-08-17T20:15:54.718805"
+            },
+            {
+                "query": "SQL Syntax country:VN",
+                "timestamp": "2024-08-17T20:18:57.809981"
+            },
+            {
+                "query": "org:\"FPT\" hostname:\".edu.vn\"",
+                "timestamp": "2024-08-17T20:20:14.641973"
+            },
+            {
+                "query": "org:\"FPT\" hostname:\".edu.vn\"",
+                "timestamp": "2024-08-17T20:20:33.080694"
+            },
+            {
+                "query": "org:\"FPT\" hostname:\".edu.vn\"",
+                "timestamp": "2024-08-17T20:21:01.657635"
+            },
+            {
+                "query": "\"Candidate List\" OR \"MVR\" filetype:pdf",
+                "timestamp": "2024-08-17T20:31:40.938227"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:32:15.560254"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:34:16.843916"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:35:51.522932"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:37:21.216801"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:40:28.577520"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:43:00.003169"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:45:29.398756"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:48:41.172190"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:49:10.156431"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:56:13.834580"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T20:58:51.851780"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:01:15.662976"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:04:42.071787"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T21:10:17.660891"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:10:40.204532"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:11:25.177940"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:13:09.117223"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:14:56.429604"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:26:19.503586"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:26:21.573373"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:27:06.589195"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:28:04.701176"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:39:54.701409"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:41:36.373613"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:42:21.743264"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:42:45.014165"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:44:05.302143"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs 30.",
+                "timestamp": "2024-08-17T21:48:33.439128"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:48:39.638107"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:51:07.358676"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:52:44.093823"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T21:54:30.023361"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:01:00.815316"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:02:20.995515"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:03:19.097608"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:04:09.797491"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:05:05.623415"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:05:23.674900"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:06:43.895260"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:08:30.666466"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:10:55.011920"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:11:44.796309"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:20:40.373750"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:21:18.965823"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:22:43.369864"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T22:27:32.950731"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:03:09.626080"
+            },
+            {
+                "query": "SQL Syntax",
+                "timestamp": "2024-08-17T23:06:41.348811"
+            },
+            {
+                "query": "SQL Syntax",
+                "timestamp": "2024-08-17T23:06:54.879789"
+            },
+            {
+                "query": "SQL Syntax",
+                "timestamp": "2024-08-17T23:07:14.811997"
+            },
+            {
+                "query": "SQL Syntax",
+                "timestamp": "2024-08-17T23:07:34.511495"
+            },
+            {
+                "query": "SQL Syntax",
+                "timestamp": "2024-08-17T23:07:50.804443"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T23:19:16.856284"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:24:25.783034"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:29:25.624707"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:30:59.567624"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:33:10.250191"
+            },
+            {
+                "query": "(\"Candidate List\" OR \"MVR\") docs",
+                "timestamp": "2024-08-17T23:35:21.301206"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\"",
+                "timestamp": "2024-08-17T23:37:13.347725"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:37:31.639576"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:37:48.837719"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:38:14.028866"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:40:05.402893"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:40:07.641140"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:40:21.123144"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:40:36.706324"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:40:55.002936"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:41:13.007223"
+            },
+            {
+                "query": "\"X-AspNet-Version\" http.title:\"Outlook\" -\"x-owa-version\" country:VN",
+                "timestamp": "2024-08-17T23:41:27.470673"
+            }
+        ],
+        "approved": true
+    },
+    "6384325091": {
+        "name": "\u0e17\u00a1\u0199\u2134",
+        "created": "2024-08-17T19:44:01.248092",
+        "usage_count": 6,
+        "search_history": [
+            {
+                "query": "hostname:viettan.org",
+                "timestamp": "2024-08-17T19:44:22.450600"
+            },
+            {
+                "query": "hostname:bangda.jatengprov.go.id",
+                "timestamp": "2024-08-17T19:46:45.723541"
+            },
+            {
+                "query": "hostname:bookings.com",
+                "timestamp": "2024-08-17T19:49:14.058338"
+            },
+            {
+                "query": "vuln:CVE-2024-4577",
+                "timestamp": "2024-08-17T19:50:21.715696"
+            }
+        ],
+        "approved": true
+    },
+    "839042874": {
+        "name": "Jack",
+        "created": "2024-08-17T19:55:37.062533",
+        "usage_count": 3,
+        "search_history": [
+            {
+                "query": "hostname:brandacart.com",
+                "timestamp": "2024-08-17T19:56:45.341622"
+            },
+            {
+                "query": "hostname:vnexpress.net",
+                "timestamp": "2024-08-17T20:00:19.847400"
+            }
+        ],
+        "approved": true
+    },
+    "5163254444": {
+        "name": "B\u1ea3o Ph\u00fac",
+        "created": "2024-08-17T19:58:47.063798",
+        "usage_count": 10,
+        "search_history": [
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T20:00:16.260336"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T20:01:34.028547"
+            },
+            {
+                "query": "hostname:fpt.edu.vn",
+                "timestamp": "2024-08-17T20:02:59.779520"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T20:07:19.300018"
+            },
+            {
+                "query": "hostname:\"fpt.edu.vn\" \"SQL\u201d",
+                "timestamp": "2024-08-17T20:19:06.655837"
+            },
+            {
+                "query": "hostname:*.fpt.edu.vn",
+                "timestamp": "2024-08-17T22:09:26.913127"
+            }
+        ],
+        "approved": true
+    },
+    "6647642703": {
+        "name": "Minh",
+        "created": "2024-08-17T20:15:09.871817",
+        "usage_count": 1,
+        "search_history": [],
+        "approved": true
+    },
+    "5582641329": {
+        "name": "FUCT",
+        "created": "2024-08-17T20:23:40.258269",
+        "usage_count": 2,
+        "search_history": [],
+        "approved": true
+    },
+    "5336084276": {
+        "name": "yanta",
+        "created": "2024-08-17T20:47:33.334845",
+        "usage_count": 1,
+        "search_history": [],
+        "approved": true
+    },
+    "5563246775": {
+        "name": "M\u1ed3n L\u00e8o Hay Kh\u00f3k\ufffd",
+        "created": "2024-08-17T21:41:11.190630",
+        "usage_count": 1,
+        "search_history": [],
+        "approved": true
+    },
+    "7360798352": {
+        "name": "\u0110\u01b0\u1eddng",
+        "created": "2024-08-17T23:53:41.564579",
+        "usage_count": 4,
+        "search_history": [
+            {
+                "query": "hostname:\u201d*.edu.vn\u201d",
+                "timestamp": "2024-08-17T23:54:50.286155"
+            }
+        ],
+        "approved": true
+    }
+}
